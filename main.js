@@ -1,1 +1,3 @@
-console.log("teste js")
+let hugo = "Bem vindo ao mundo, Hugo"
+
+console.log(hugo)
